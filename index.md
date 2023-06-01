@@ -1,7 +1,10 @@
 # residentevil1256.github.io
+---
 layout: page
-title: "index"
-permalink: https://residentevil1256.github.io/index
+title: "Test"
+permalink: /index.md
+---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
