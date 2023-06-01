@@ -5,7 +5,6 @@ title: "Test"
 permalink: /index.md
 ---
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
