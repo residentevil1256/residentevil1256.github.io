@@ -15,9 +15,9 @@ navbar-links:
 navbar-var-length: true
 
 #Navbar Icon
-avatar: /nav-logo.png
-round-avatar: true
-#title-img: /path/to/image
+#avatar: 
+round-avatar: false
+title-img: /nav-logo.png
 
 
 # --- Footer social media links --- #
