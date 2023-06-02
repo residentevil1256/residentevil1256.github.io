@@ -1,6 +1,7 @@
 title: Avinash's Portfolio
 author: Avinash S. Perera
 
+remote_theme: chrisrhymes/bulma-clean-theme
 
 #Navbar
 navbar-links:
