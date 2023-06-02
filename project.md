@@ -4,7 +4,7 @@ title: Project
 subtitle: Regression Analysis, Python/Jupyter Notebooks, ML, Health
 url: /project
 ---
-
+![alt text](/nav-logo.png "Logo Title Text 1")
 
 ###I use regression analysis via Python to see if there is a relation between fast food locations and obesity.
 
