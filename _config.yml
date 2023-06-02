@@ -15,7 +15,7 @@ navbar-links:
 navbar-var-length: true
 
 #Navbar Icon
-avatar:
+avatar: /nav-logo
 round-avatar: true
 #title-img: /path/to/image
 
