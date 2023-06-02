@@ -15,7 +15,7 @@ navbar-links:
 navbar-var-length: true
 
 #Navbar Icon
-avatar: https://images.vexels.com/media/users/3/162064/isolated/lists/97fb5a234433931f01b4e66f26fa9f24-crocodile-alligator-jaws-tail-fang-flat.png
+avatar:
 round-avatar: true
 #title-img: /path/to/image
 
