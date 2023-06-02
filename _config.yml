@@ -4,7 +4,7 @@ author: Avinash S. Perera
 #Navbar
 navbar-links:
   Home: "index"
-  #About Me: "aboutme"
+  Project: "project"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
