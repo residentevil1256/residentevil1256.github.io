@@ -2,7 +2,9 @@
 layout: page
 title: Project
 subtitle: Regression Analysis, Python/Jupyter Notebooks, ML, Health
+url: /project
 ---
+
 
 I use regression analysis via Python to see if there is a relation between fast food locations and obesity.
 
