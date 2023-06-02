@@ -5,7 +5,6 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 #Navbar
 navbar-links:
-  Home: "index"
   Project: "project"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
