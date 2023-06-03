@@ -1,8 +1,12 @@
 ---
 ---
 
-@import "{{ residentevil1256.theme }}";
+@import "{{ site.theme }}";
 
 * {
     font-weight: bold;
+}
+
+p {
+    color: pink;
 }
