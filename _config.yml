@@ -1,7 +1,7 @@
 title: Avinash's Portfolio
 author: Avinash S. Perera
 
-#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: pages-themes/minimal@v0.2.0
 
 #Navbar
 navbar-links:
@@ -172,6 +172,7 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Exclude these files from production site
 #exclude:
