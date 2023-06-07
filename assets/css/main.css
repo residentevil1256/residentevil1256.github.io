@@ -2827,6 +2827,7 @@ font-size: 1.25rem;
 				line-height: 3.25rem;
 				display: inline-block;
 				text-align: center;
+				vertical-align: middle;
 				border-radius: 100%;
 				font-size: 2.25rem;
 			}
