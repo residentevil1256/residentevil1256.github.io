@@ -17,10 +17,7 @@
 	vertical-align: middle;
 }
 
-.footer-label {
-	font-size: 2rem;
-	margin-right: 2rem;
-}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -4711,3 +4708,8 @@ font-size: 1.25rem;
 		}
 
 	}
+
+.footer-label {
+	font-size: 2rem;
+	margin-right: 2rem;
+}
