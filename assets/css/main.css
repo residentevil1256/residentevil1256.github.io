@@ -3801,7 +3801,8 @@ font-size: 1.25rem;
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 8rem 8rem 6rem 8rem;
+			background-color: #bcff92;
 		}
 
 			#main > .post header.major > .date {
