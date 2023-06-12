@@ -14,7 +14,7 @@
 }
 
 .email-nav:hover {
-	color: #18bfef;
+	color: #18bfef !important;
 }
 
 .email-footer {
