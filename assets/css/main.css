@@ -33,7 +33,7 @@
 	background-color: #b9f495;
 }
 
-.footer-icon {
+.footer-icon::before {
 	color: #717981;
 }
 
