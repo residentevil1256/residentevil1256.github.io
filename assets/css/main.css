@@ -4212,11 +4212,11 @@ font-size: 1.25rem;
 				}
 
 			#footer .pagination a.active {
-				background-color: #e2e2e2;
+				background-color: #b9f495;
 			}
 
 		#footer .pagination span {
-			color: #e2e2e2;
+			color: #b9f495;
 		}
 
 		#footer > section {
