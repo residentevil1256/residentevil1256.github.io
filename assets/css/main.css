@@ -2244,7 +2244,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #212931;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #eaffdd !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2517,7 +2517,7 @@ input, select, textarea {
 	}
 
 		select option {
-			background-color: #ffffff;
+			background-color: #eaffdd;
 			color: #212931;
 		}
 
@@ -2539,7 +2539,7 @@ input, select, textarea {
 	input[type="radio"]:checked + label:before {
 		background-color: #212931;
 		border-color: #212931;
-		color: #ffffff;
+		color: #eaffdd;
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -3311,7 +3311,7 @@ font-size: 1.25rem;
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: #eaffdd;
 		padding: 6rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3341,11 +3341,11 @@ font-size: 1.25rem;
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#intro a {
-			color: #ffffff;
+			color: #eaffdd;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3355,7 +3355,7 @@ font-size: 1.25rem;
 			}
 
 		#intro strong, #intro b {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
@@ -3363,16 +3363,16 @@ font-size: 1.25rem;
 		}
 
 		#intro blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #eaffdd;
 		}
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #eaffdd;
 		}
 
 		#intro hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #eaffdd;
 		}
 
 		#intro input[type="submit"],
@@ -3399,7 +3399,7 @@ font-size: 1.25rem;
 			#intro input[type="button"].primary,
 			#intro button.primary,
 			#intro .button.primary {
-				background-color: #ffffff;
+				background-color: #eaffdd;
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3522,7 +3522,7 @@ font-size: 1.25rem;
 /* Header */
 
 	#header {
-		color: #ffffff;
+		color: #eaffdd;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3552,11 +3552,11 @@ font-size: 1.25rem;
 	}
 
 		#header input, #header select, #header textarea {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#header a {
-			color: #ffffff;
+			color: #eaffdd;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3566,24 +3566,24 @@ font-size: 1.25rem;
 			}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#header blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #eaffdd;
 		}
 
 		#header code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #eaffdd;
 		}
 
 		#header hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #eaffdd;
 		}
 
 		#header .logo {
@@ -3593,7 +3593,7 @@ font-size: 1.25rem;
 			transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
 			pointer-events: auto;
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: #eaffdd;
 			border-width: 5px !important;
 			font-family: "Oswald", Helvetica, sans-serif;
 			font-size: 2.25rem;
@@ -3657,7 +3657,7 @@ font-size: 1.25rem;
 	}
 
 		#nav ul.divided li {
-			border-top-color: #ffffff;
+			border-top-color: #eaffdd;
 		}
 
 		#nav ul.icons li a.icon:hover:before {
@@ -3665,7 +3665,7 @@ font-size: 1.25rem;
 		}
 
 		#nav ul.icons.alt li .icon:before {
-			box-shadow: inset 0 0 0 2px #ffffff;
+			box-shadow: inset 0 0 0 2px #eaffdd;
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
@@ -3673,11 +3673,11 @@ font-size: 1.25rem;
 		}
 
 		#nav input, #nav select, #nav textarea {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#nav a {
-			color: #ffffff;
+			color: #;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3687,24 +3687,24 @@ font-size: 1.25rem;
 			}
 
 		#nav strong, #nav b {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#nav blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #eaffdd;
 		}
 
 		#nav code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #eaffdd;
 		}
 
 		#nav hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #eaffdd;
 		}
 
 		#nav ul.links {
@@ -3746,7 +3746,7 @@ font-size: 1.25rem;
 				}
 
 					#nav ul.links li a:hover {
-						color: inherit !important;
+						color: #18bfef !important;
 						background-color: rgba(255, 255, 255, 0.1);
 					}
 
@@ -4413,7 +4413,7 @@ font-size: 1.25rem;
 		}
 
 	#copyright {
-		color: #ffffff;
+		color: #eaffdd;
 		position: relative;
 		color: rgba(255, 255, 255, 0.8);
 		cursor: default;
@@ -4431,11 +4431,11 @@ font-size: 1.25rem;
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#copyright a {
-			color: #ffffff;
+			color: #eaffdd;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -4445,24 +4445,24 @@ font-size: 1.25rem;
 			}
 
 		#copyright strong, #copyright b {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#copyright h1, #copyright h2, #copyright h3, #copyright h4, #copyright h5, #copyright h6 {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#copyright blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #eaffdd;
 		}
 
 		#copyright code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #eaffdd;
 		}
 
 		#copyright hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #eaffdd;
 		}
 
 		#copyright a {
@@ -4526,7 +4526,7 @@ font-size: 1.25rem;
 		top: 0.75rem;
 		right: 0.75rem;
 		border: 0;
-		color: #ffffff;
+		color: #eaffdd;
 		background-color: rgba(255, 255, 255, 0.25);;
 		font-family: "Oswald", Helvetica, sans-serif;
 		font-size: 0.9rem;
@@ -4562,7 +4562,7 @@ font-size: 1.25rem;
 		}
 
 			#navPanelToggle.alt:hover {
-				background-color: #ffffff;
+				background-color: #eaffdd;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -4593,7 +4593,7 @@ font-size: 1.25rem;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: #ffffff;
+		background: #eaffdd;
 		box-shadow: none;
 		color: #212931;
 		height: 100%;
