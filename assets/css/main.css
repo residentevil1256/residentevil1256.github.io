@@ -3681,6 +3681,10 @@ font-size: 1.25rem;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
+		#nav i::before:hover {
+			color: #18bfef;
+		}
+
 			#nav a:hover {
 				border-bottom-color: transparent;
 				color: #18bfef !important;
