@@ -34,7 +34,7 @@
 }
 
 .footer-icon:before {
-	color: #717981;
+	color: #717981 !important;
 }
 
 html, body, div, span, applet, object,
