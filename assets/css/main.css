@@ -25,6 +25,10 @@
 	margin-right: 2rem;
 }
 
+.footer-sect {
+	background-color: #b9f495;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3235,11 +3239,11 @@ font-size: 1.25rem;
 			}
 
 		.pagination a.active {
-			background-color: #eeeeee;
+			background-color: #b9f495;
 		}
 
 	.pagination span {
-		color: #eeeeee;
+		color: #b9f495;
 	}
 
 /* Wrapper */
