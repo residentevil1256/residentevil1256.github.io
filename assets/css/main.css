@@ -13,6 +13,10 @@
 	color: #eaffdd;
 }
 
+.email-nav::before:hover {
+	color: #18bfef;
+}
+
 .email-footer {
 	width: 4.25rem;
 	height: 4.25rem;
