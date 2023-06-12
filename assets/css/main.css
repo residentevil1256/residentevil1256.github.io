@@ -9,6 +9,10 @@
 	vertical-align: middle;
 }
 
+.email-nav::before {
+	color: #eaffdd;
+}
+
 .email-footer {
 	width: 4.25rem;
 	height: 4.25rem;
