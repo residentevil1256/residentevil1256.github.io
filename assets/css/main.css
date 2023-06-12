@@ -13,7 +13,7 @@
 	color: #eaffdd;
 }
 
-.email-nav::before:hover {
+.email-nav:hover {
 	color: #18bfef;
 }
 
