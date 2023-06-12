@@ -3802,6 +3802,7 @@ font-size: 1.25rem;
 
 	#main {
 		background-color: #eaffdd;
+		border-bottom: #000000;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
