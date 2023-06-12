@@ -3354,7 +3354,7 @@ font-size: 1.25rem;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
+			color: #eaffdd;
 		}
 
 		#intro blockquote {
@@ -3410,7 +3410,7 @@ font-size: 1.25rem;
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
-			color: #000000;
+			color: #eaffdd;
 		}
 
 		#intro p {
