@@ -3630,7 +3630,7 @@ font-size: 1.25rem;
 /* Nav */
 
 	#nav {
-		color: #ffffff;
+		color: #eaffdd;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3746,7 +3746,7 @@ font-size: 1.25rem;
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #eaffdd;
 				}
 
 					#nav ul.links li.active a {
