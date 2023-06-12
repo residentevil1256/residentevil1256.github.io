@@ -4266,7 +4266,7 @@ font-size: 1.25rem;
 
 				#footer > section.split > section {
 					padding: 3rem 4rem 1rem 4rem ;
-					border-top: solid 2px #e2e2e2;
+					border-top: solid 2px #000000;
 				}
 
 					#footer > section.split > section:first-child {
