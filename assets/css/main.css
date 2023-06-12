@@ -3410,6 +3410,7 @@ font-size: 1.25rem;
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
+			color: #000000;
 		}
 
 		#intro p {
@@ -3778,7 +3779,7 @@ font-size: 1.25rem;
 /* Main */
 
 	#main {
-		background-color: #cbffaa;
+		background-color: #eaffdd;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3788,7 +3789,7 @@ font-size: 1.25rem;
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #eeeeee;
+			border-top: solid 2px #000000;
 			margin: 0;
 		}
 
@@ -3802,7 +3803,7 @@ font-size: 1.25rem;
 
 		#main > .post {
 			padding: 8rem 8rem 6rem 8rem;
-			background-color: #cbffaa;
+			background-color: #eaffdd;
 		}
 
 			#main > .post header.major > .date {
@@ -3885,7 +3886,7 @@ font-size: 1.25rem;
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: #000000;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
@@ -4154,7 +4155,7 @@ font-size: 1.25rem;
 		}
 
 		#footer header.major .date:before, #footer header.major .date:after {
-			border-top-color: #e2e2e2;
+			border-top-color: #000000;
 		}
 
 		#footer table tbody tr {
