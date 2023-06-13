@@ -4384,7 +4384,7 @@ font-size: 1.25rem;
 				#footer form label,
 				#footer h3,
 				#footer p {
-					font-size: 1.5rem;
+					font-size: 1.7rem;
 				}
 
 		}
@@ -4418,7 +4418,11 @@ font-size: 1.25rem;
 					#footer > section.split.contact > section:last-child {
 						padding: 2rem;
 					}
-
+				#footer form label,
+				#footer h3,
+				#footer p {
+					font-size: 5rem;
+				}
 		}
 
 		@media screen and (max-width: 480px) {
