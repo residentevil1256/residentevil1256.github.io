@@ -37,6 +37,10 @@
 	color: #717981 !important;
 }
 
+#continue-arrow {
+
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3511,7 +3515,7 @@ font-size: 1.25rem;
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 30vh;
+				min-height: 40vh;
 			}
 
 				#intro h1 {
@@ -3532,6 +3536,11 @@ font-size: 1.25rem;
 			h3 {
 				font-size: 2.2rem;
 			}
+
+		#continue-arrow {
+			display:hidden;
+		}
+
 		}
 
 /* Header */
