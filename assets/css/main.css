@@ -3528,7 +3528,10 @@ font-size: 1.25rem;
 				#intro .actions {
 					display: none;
 				}
-
+			
+			h3 {
+				font-size: 2.2rem;
+			}
 		}
 
 /* Header */
