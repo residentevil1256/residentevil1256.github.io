@@ -3016,11 +3016,11 @@ font-size: 1.25rem;
 				}
 
 				header.major > .date:before {
-					left: 0;
+					right: 20px;
 				}
 
 				header.major > .date:after {
-					right: 0;
+					left: 20px;
 				}
 
 		@media screen and (max-width: 980px) {
