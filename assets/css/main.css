@@ -3537,10 +3537,13 @@ font-size: 1.25rem;
 				font-size: 2.2rem;
 			}
 
-		#continue-arrow {
-			display:hidden;
-		}
+			#continue-arrow {
+				display:hidden;
+			}
 
+			.date {
+				font-size: 2rem;
+			}
 		}
 
 /* Header */
