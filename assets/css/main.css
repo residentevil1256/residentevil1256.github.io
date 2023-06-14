@@ -2278,6 +2278,7 @@ input, select, textarea {
 			background-color: #212931;
 			box-shadow: none;
 			color: #eaffdd !important;
+			vertical-align: middle;
 		}
 
 			input[type="submit"].primary:hover,
@@ -3443,7 +3444,6 @@ font-size: 1.25rem;
 				background-color: #eaffdd;
 				box-shadow: none;
 				color: #1e252d !important;
-				vertical-align: middle;
 			}
 
 				#intro input[type="submit"].primary:hover,
