@@ -3352,7 +3352,7 @@ font-size: 1.25rem;
 
 	#intro {
 		color: #eaffdd;
-		padding: 3rem 4rem 3rem 4rem ;
+		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3365,10 +3365,10 @@ font-size: 1.25rem;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
 		flex-direction: column;
-		-moz-justify-content: -moz-flex-start;
-		-webkit-justify-content: -webkit-flex-start;
-		-ms-justify-content: -ms-flex-start;
-		justify-content: flex-start;
+		-moz-justify-content: -moz-flex-end;
+		-webkit-justify-content: -webkit-flex-end;
+		-ms-justify-content: -ms-flex-end;
+		justify-content: flex-end;
 		/*-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
