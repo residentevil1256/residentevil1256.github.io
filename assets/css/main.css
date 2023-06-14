@@ -3554,6 +3554,10 @@ font-size: 1.25rem;
 			.date {
 				font-size: 2rem;
 			}
+
+			ul.icons li .icon:before {
+				color: #212931
+			}
 		}
 
 /* Header */
