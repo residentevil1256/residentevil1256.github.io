@@ -51,7 +51,7 @@
 	color: #717981 !important;
 }
 
-.footer-icon:before:hover {
+.footer-icon:hover:before {
 	color: #18bfef !important;
 }
 
