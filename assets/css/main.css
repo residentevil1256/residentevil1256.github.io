@@ -2278,7 +2278,6 @@ input, select, textarea {
 			background-color: #212931;
 			box-shadow: none;
 			color: #eaffdd !important;
-			vertical-align: middle;
 		}
 
 			input[type="submit"].primary:hover,

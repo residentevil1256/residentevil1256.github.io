@@ -13,3 +13,7 @@
     width: 100%;
     border: none;
 }
+
+#post-footer-btns > a {
+    font-size: 2rem !important;
+}
