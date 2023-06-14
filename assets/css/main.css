@@ -3019,7 +3019,7 @@ font-size: 1.25rem;
 
 			header.major > .date {
 				font-size: 2rem;
-				margin: 0 0 4rem 0;
+				margin: 0 0 3rem 0;
 			}
 
 				header.major > .date:before, header.major > .date:after {
