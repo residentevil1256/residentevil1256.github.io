@@ -3522,7 +3522,7 @@ font-size: 1.25rem;
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 70vh;
+				min-height: 90vh;
 			}
 
 				#intro p br {
@@ -3539,7 +3539,7 @@ font-size: 1.25rem;
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 40vh;
+				min-height: 80vh;
 			}
 
 				#intro h1 {
@@ -3599,7 +3599,8 @@ font-size: 1.25rem;
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		height: 8rem;
+		height: 20rem;
+		padding-bottom: 8rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
