@@ -1,3 +1,8 @@
 #proj-header {
     height: 10rem;
 }
+
+.proj-btn {
+    padding: 0.2rem;
+    width: 20rem;
+}
