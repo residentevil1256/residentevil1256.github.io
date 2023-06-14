@@ -3598,7 +3598,7 @@ font-size: 1.25rem;
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		height: 10rem;
+		height: 15rem;
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -3666,7 +3666,7 @@ font-size: 1.25rem;
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 9rem;
+				height: 14rem;
 				padding-bottom: 4rem;
 			}
 
