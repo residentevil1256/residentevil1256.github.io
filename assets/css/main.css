@@ -2187,7 +2187,8 @@ input, select, textarea {
 		input[type="button"].fit,
 		button.fit,
 		.button.fit {
-			width: 100%;
+			width: 20rem;
+			padding: 0.2rem;
 		}
 
 		input[type="submit"].small,
