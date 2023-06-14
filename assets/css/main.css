@@ -51,6 +51,10 @@
 	color: #717981 !important;
 }
 
+.footer-icon:before:hover {
+	color: #18bfef !important;
+}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2967,8 +2971,7 @@ font-size: 1.25rem;
 
 		header > .date {
 			display: block;
-			font-size: 0.8rem;
-			/*height: 1;*/
+			font-size: 1.4rem;
 			margin: 0 0 1rem 0;
 			position: relative;
 		}
@@ -3518,7 +3521,7 @@ font-size: 1.25rem;
 
 			#intro {
 				padding: 4rem 4rem 2rem 4rem ;
-				min-height: 80vh;
+				min-height: 70vh;
 			}
 
 				#intro p br {
