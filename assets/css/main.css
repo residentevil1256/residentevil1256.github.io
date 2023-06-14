@@ -13,6 +13,12 @@
 	color: #eaffdd;
 }
 
+@media screen and (max-width: 800px) {
+	.email-nav::before {
+		color: #212931;
+	}
+}
+
 .email-nav:hover:before {
 	color: #18bfef !important;
 }
