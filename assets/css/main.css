@@ -17,6 +17,14 @@
 	.email-nav::before {
 		color: #212931;
 	}
+
+	.email-nav {
+		width: 3.75rem;
+		height: 3.75rem;
+		line-height: 3.75rem;
+		font-size: 2.75rem;
+		vertical-align: middle;
+	}
 }
 
 .email-nav:hover:before {
