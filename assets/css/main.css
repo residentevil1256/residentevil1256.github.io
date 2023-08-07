@@ -2979,7 +2979,7 @@ font-size: 1.25rem;
 		}
 
 		header > p {
-			font-style: italic;
+			/*font-style: italic;*/
 		}
 
 		header > h1 + p {
