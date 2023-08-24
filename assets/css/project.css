@@ -19,5 +19,9 @@
 }
 
 p {
+    font-size: 2rem;
+}
+
+.projTags {
     font-size: 5rem;
 }
